@@ -5,15 +5,11 @@ import About from './pages/About';
 import Message from './pages/Messages';
 import ViMi from './pages/vissionmission'
 import Courses from './pages/Courses';
-
 import Faculty from './pages/Faculty';
 import Library from './pages/Library';
 import Research from './pages/Research';
-
 import Events from './pages/Events';
-
 import Contact from './pages/Contact';
-
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Header from './components/Header';
@@ -32,14 +28,10 @@ import Mscmlthb from './pages/mscmlthb';
 import Mscmltmi from './pages/mscmltmi';
 import Seminar from './pages/seminar';
 import Internships from './pages/internships';
-
 import State from './pages/statelevelconference';
 import National from './pages/nationallevelconference';
 import Bloodcamp from './pages/bloodcamp';
-
-
 import Training from './pages/training';
-
 
 function App() {
   return (

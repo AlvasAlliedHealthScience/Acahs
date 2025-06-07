@@ -22,6 +22,7 @@ import hana from '../assets/Screenshot 2025-06-02 110718.png'
 import adarsh from '../assets/Screenshot 2025-06-02 110808.png'
 import shrutha from '../assets/Screenshot 2025-06-02 110756.png'
 import muzamil from '../assets/Screenshot 2025-06-02 110831.png'
+import fac1 from '../assets/fac1.jpeg'
 const facultyMembers = [
   // Medical Laboratory Technology
   {
@@ -175,6 +176,13 @@ const facultyMembers = [
     qualification: "M.A English ",
     image: gayatri,
     role: "Lecturer",
+    department: "Hospital Administration",
+  },
+  {
+    name: "Mr. Avinash s",
+    qualification: "B.PEd &M.PEd",
+    image: fac1,
+    role: "Physical education director",
     department: "Hospital Administration",
   },
 ];
